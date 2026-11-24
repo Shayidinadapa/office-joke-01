@@ -1,0 +1,1 @@
+{"description":"One-line office joke for the make.fun 24-hour sprint: a performance review compliment, translated.","engines":{"node":">=22.6"},"license":"MIT","name":"office-joke-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
